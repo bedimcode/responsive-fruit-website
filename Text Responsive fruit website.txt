@@ -1,0 +1,132 @@
+========== HEADER ==========
+.nav__logo
+Fruit
+
+.nav__link
+Home - About Us - Popular - Join Us
+
+
+========== HOME ==========
+.home__title
+Enjoy The <br>
+Best Fresh <br>
+Fruits
+
+.home__description
+Enjoy the best organic fruits harvested with 
+the best possible quality, obtaining unique 
+and delicious flavors.
+
+.button
+Order Fruit Now
+
+
+========== ENJOY ==========
+.section__title
+Eat And Enjoy
+
+.enjoy__title .enjoy__subtitle
+Healthy
+Tropical Fruit
+
+Delicious
+Field Fruit
+
+Organic
+Tropical Fruit
+
+
+========== ABOUT US ==========
+.section__title
+We Provide <br>
+Healthy Fruits
+
+.about__description
+The fruits come to us from the best 
+harvests, planted with the care required to 
+obtain the best quality fruit, enjoying its 
+flavors and taking care of your health.
+
+.button
+Know More
+
+
+========== POPULAR ==========
+.section__title
+Popular Fruits
+
+.popular__title .popular__subtitle .popular__price
+Apple
+Organic Fruit
+$4.00
+
+Watermelon
+Organic Fruit
+$7.00
+
+Pineapple
+Organic Fruit
+$5.00
+
+Banana
+Organic Fruit
+$3.00
+
+Strawberry
+Organic Fruit
+$8.00
+
+Mango
+Organic Fruit
+$7.00
+
+
+========== JOIN US ==========
+.section__title
+Receive The <br>
+Best Fruits 
+
+.join__description
+Get up to date with the latest fruit 
+harvests and information from us.
+
+.join__input placeholder
+Enter your email
+
+.join__button
+Subscribe Now
+
+
+========== FOOTER ==========
+.footer__logo
+Fruit
+
+.footer__description
+Eat healthy, choose <br>
+the best fruits. 
+
+footer__title .footer__link
+Company
+ FAQs
+ About Us
+ Contact Us
+
+News
+ Features
+ Testimonial
+ Videos
+
+Address
+ Av. Hacienda 1234 <br> 
+ Lima 4321, Perú 
+ 9AM - 11PM    
+
+Social Media
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.youtube.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
